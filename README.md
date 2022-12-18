@@ -6,7 +6,7 @@ An Example for mkdocs CSS Styling
 
 This is an example of the `mkdocs` task list checkbox styling. The original `mkdocs` task list stying for an unchecked checkbox has a greyed out check. The new styling uses an empty checkbox.
 
-![mkdocs tasklist image](./images/mkdocs_task_list_styling_example.jpg)
+![mkdocs tasklist image](./docs/images/mkdocs_task_list_styling_example.jpg)
 
 ## Requirements
 
