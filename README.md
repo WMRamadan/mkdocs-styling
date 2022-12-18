@@ -26,6 +26,8 @@ pip3 install mkdocs-material
 ```
 
 ## Run Server
+
+From within the `mkdocs-styling` directory run the following command:
 ```bash
 mkdocs serve
 ```
